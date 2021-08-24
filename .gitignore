@@ -1,2 +1,6 @@
 /.DS_Store
 serverless/01.exercise(Lambda Cloud Matrics)/node_modules
+serverless/RestAPI/server/node_modules
+serverless/RestAPI/client/node_modules
+serverless/RestAPI/server/http-post.zip
+serverless/RestAPI/client/node_modules
