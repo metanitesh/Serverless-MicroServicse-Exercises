@@ -4,3 +4,7 @@ serverless/RestAPI/server/node_modules
 serverless/RestAPI/client/node_modules
 serverless/RestAPI/server/http-post.zip
 serverless/RestAPI/client/node_modules
+serverless/RestAPI/server/without-framwork/node_modules
+serverless/.DS_Store
+serverless/RestAPI/.DS_Store
+serverless/RestAPI/server/.DS_Store
